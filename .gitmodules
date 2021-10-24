@@ -1,3 +1,0 @@
-[submodule "src/dependencies/ceres"]
-	path = src/dependencies/ceres
-	url = git://github.com/ceres-solver/ceres-solver.git
